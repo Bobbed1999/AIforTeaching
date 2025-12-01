@@ -10,6 +10,9 @@ During this course, learners will have an opportunity to develop teaching and le
 ###
 Module 0: Microcourse Orientation 
 
+Read: Why Is Critical AI Literacy Important?
+
+
 Module 1: Is AI fundamentally reshaping teaching and learning
 
 Module 2: What are the boundaries of AI use and misuse in teaching and learning?
